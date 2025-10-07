@@ -113,7 +113,7 @@ main {
 
 footer {
     margin-top: 50px;
-    color: #666;
+    color: #000;
 }
 
 .video-thumb {
@@ -137,5 +137,5 @@ footer {
 }
 
 input {
-  margin-bottom: 10px; /* espaçamento entre os inputs */
+  margin-bottom: 10px;
 }
